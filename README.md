@@ -1,6 +1,6 @@
 # 🖥️ Linux Server Homelab
 
-A personal homelab setup to learn basic Linux server administration using VirtualBox and Ubuntu Server 22.04.
+A personal homelab setup to learn basic Linux server administration using VirtualBox and Ubuntu Server 22.04, practiced user and group management using CLI and set up SSH, UFW firewall, and hosted a basic Apache web server
 
 ---
 
