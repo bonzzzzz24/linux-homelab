@@ -165,6 +165,6 @@ sudo ufw status
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 Images used above are stored in the `/screenshots` folder and used to visualize important steps in the homelab setup.
