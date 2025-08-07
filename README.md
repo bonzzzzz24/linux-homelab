@@ -22,7 +22,8 @@ This project documents my hands-on journey in setting up a Linux server homelab 
 
 ---
 
-##  Objectives
+<a name="objectives"></a>
+## 🎯 Objectives
 
 - Install Ubuntu Server in a virtual machine  
 - Create and manage users and groups  
@@ -32,7 +33,8 @@ This project documents my hands-on journey in setting up a Linux server homelab 
 
 ---
 
-##  Tools Used
+<a name="tools-used"></a>
+## 🛠 Tools Used
 
 - VirtualBox  
 - Ubuntu Server 22.04 LTS  
@@ -42,7 +44,8 @@ This project documents my hands-on journey in setting up a Linux server homelab 
 
 ---
 
-##  Setup Steps
+<a name="setup-steps"></a>
+## 🔧 Setup Steps
 
 ### 1. Install Ubuntu Server in VirtualBox
 
@@ -137,7 +140,8 @@ sudo ufw status
 
 ---
 
-##  What You Learned
+<a name="what-you-learned"></a>
+## ✅ What You Learned
 
 - How to install and configure a Linux server in a VM  
 - User and group administration  
@@ -147,7 +151,8 @@ sudo ufw status
 
 ---
 
-##  Resources
+<a name="resources"></a>
+## 🔗 Resources
 
 - Ubuntu Server ISO  
 - Apache Documentation  
@@ -155,7 +160,8 @@ sudo ufw status
 
 ---
 
-##  Future Improvements
+<a name="future-improvements"></a>
+## 🚀 Future Improvements
 
 - Add cron jobs for automation  
 - Enable and secure SFTP access  
@@ -165,6 +171,7 @@ sudo ufw status
 
 ---
 
-##  Screenshots
+<a name="screenshots"></a>
+## 📸 Screenshots
 
 Images used above are stored in the `/screenshots` folder and used to visualize important steps in the homelab setup.
