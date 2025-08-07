@@ -62,7 +62,7 @@ This project documents my hands-on journey in setting up a Linux server homelab 
 sudo apt update && sudo apt upgrade -y
 ```
 
-![apt update](screenshots/sudo apt update.png)
+![apt update](screenshots/sudo-apt-update.png)
 
 ---
 
@@ -75,8 +75,8 @@ sudo usermod -aG devgroup testuser
 id testuser
 ```
 
-![adduser](screenshots/sudo adduser test user.png)  
-![groupadd](screenshots/sudo groupadd.png)
+![adduser](screenshots/sudo-adduser-test-user.png)  
+![groupadd](screenshots/sudo-groupadd.png)
 
 ---
 
@@ -96,10 +96,10 @@ PermitRootLogin no
 PasswordAuthentication yes
 ```
 
-![Install SSH](screenshots/sudo apt install ssh.png)  
-![Enable SSH](screenshots/sudo enable ssh.png)  
-![Systemctl SSH](screenshots/sudo systemctl.png)  
-![Edit sshd_config](screenshots/suno nano  etc-ssh.png)
+![Install SSH](screenshots/sudo-apt-install-ssh.png)  
+![Enable SSH](screenshots/sudo-enable-ssh.png)  
+![Systemctl SSH](screenshots/sudo-systemctl.png)  
+![Edit sshd_config](screenshots/suno-nano-etc-ssh.png)
 
 ---
 
@@ -118,8 +118,8 @@ ip a
 Open a browser and go to:  
 `http://<your-vm-ip>`
 
-![Apache Install](screenshots/sudo apt apache .png)  
-![IP Address](screenshots/ip a.png)
+![Apache Install](screenshots/sudo-apt-apache .png)  
+![IP Address](screenshots/ip-a.png)
 
 ---
 
@@ -132,8 +132,8 @@ sudo ufw enable
 sudo ufw status
 ```
 
-![UFW SSH](screenshots/sudo ufw allow OpenSSH.png)  
-![Apache Default Page](screenshots/Apache Default Page.png)
+![UFW SSH](screenshots/sudo-ufw-allow-OpenSSH.png)  
+![Apache Default Page](screenshots/Apache-Default-Page.png)
 
 ---
 
