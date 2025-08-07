@@ -118,7 +118,7 @@ ip a
 Open a browser and go to:  
 `http://<your-vm-ip>`
 
-![Apache Install](screenshots/sudo-apt-apache .png)  
+![Apache Install](screenshots/sudo-apt-apache.png)  
 ![IP Address](screenshots/ip-a.png)
 
 ---
